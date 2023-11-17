@@ -20,4 +20,8 @@ Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 
 ### Ubuntu server
 <p align="center"> 
-<p>O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa canonical usando como base o código fonte do sistema Debian. O Sistema tem foco em servidores do mercado corporativo.</p>
+<p>O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa canonical usando como base o código fonte do sistema Debian. O Sistema tem foco em servidores do mercado corporativo.
+Para fazer o Download clique no link abaixo
+<a href="https://ubuntu.com/download/server">Ubuntu Server 22.04</p>
+
+</p>
