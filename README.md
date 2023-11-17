@@ -19,9 +19,20 @@ Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 <p> Acesso via SSH no VScode </p>
 
 ### Ubuntu server
-<p align="center"> 
-<p>O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa canonical usando como base o código fonte do sistema Debian. O Sistema tem foco em servidores do mercado corporativo.
-Para fazer o Download clique no link abaixo
-<a href="https://ubuntu.com/download/server">Ubuntu Server 22.04</p>
+
+<p align="center">O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa canonical usando como base o código fonte do sistema Debian. O Sistema tem foco em servidores do mercado corporativo.</p>
+
+<p align="center">Para fazer o Download clique no link abaixo</p>
+
+<p align="center"> <a href="https://ubuntu.com/download/server">Ubuntu Server 22.04 </a>
+</p>
+
+### Virtual box
+<p align="center">VirtualBox é um software de virtualização de código aberto desenvolvido pela Oracle, que permite criar e executar máquinas virtuais em um computador físico.</p>
+
+<p align="center">Para fazer o Download clique no link abaixo</p>
+
+<p align="center"><a href="https://www.virtualbox.org/">VirtualBox</a>
 
 </p>
+
