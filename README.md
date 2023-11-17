@@ -5,15 +5,19 @@
 <img src=logoubuntu.png width=80 height=80><img src=logovirtualbox.png width=80 height=80><img src=logovscode.png width=80 height=80><img src=cockpitlogo.png width=80 height=80><img src=logossh.png width=80 height=80><img src=logoc.png width=80 height=80><img src=logogit.png width=80 height=80>
 </p>
 
-foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
+Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
     
-- Download do sistema operacional Linux
-- Ubuntu Server 
-- Configuração da máquina virtual no VirtualBox
-- Instalação do sistema operacinal na máquina criada
-- Atualização do sistema operacional
-- Instalação do cockpit
-- Instalação do git
-- Instalação do gcc
-- Configuração de portas do VirtualBox
-- Acesso via SSH no VScode
+<p> Download do sistema operacional Linux</p>
+<p> Ubuntu Server </p>
+<p> Configuração da máquina virtual no VirtualBox </p>
+<p> Instalação do sistema operacinal na máquina criada </p>
+<p> Atualização do sistema operacional </p>
+<p> Instalação do cockpit </p>
+<p> Instalação do git </p>
+<p> Instalação do gcc </p>
+<p> Configuração de portas do VirtualBox </p>
+<p> Acesso via SSH no VScode </p>
+
+### Ubuntu server
+<p align="center"> 
+<p>O Ubuntu Server é uma distribuição GNU/Linux que é mantida pela empresa canonical usando como base o código fonte do sistema Debian. O Sistema tem foco em servidores do mercado corporativo.</p>
