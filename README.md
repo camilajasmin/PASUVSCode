@@ -2,10 +2,12 @@
 
 ## Veremos abaixo as ferramentas utilizadas
 
+!["Logo Ubuntu"](./logoubuntu.png)
+
 foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
     
 - Download do sistema operacional Linux
--  Ubuntu Server 
+- Ubuntu Server 
 - Configuração da máquina virtual no VirtualBox
 - Instalação do sistema operacinal na máquina criada
 - Atualização do sistema operacional
